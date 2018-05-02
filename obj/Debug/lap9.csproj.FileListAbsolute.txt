@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\lap9\lap9\bin\Debug\lap9.exe.config
+C:\Users\mcyal\source\repos\lap9\lap9\bin\Debug\lap9.exe
+C:\Users\mcyal\source\repos\lap9\lap9\bin\Debug\lap9.pdb
+C:\Users\mcyal\source\repos\lap9\lap9\obj\Debug\lap9.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\lap9\lap9\obj\Debug\lap9.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\lap9\lap9\obj\Debug\lap9.exe
+C:\Users\mcyal\source\repos\lap9\lap9\obj\Debug\lap9.pdb
